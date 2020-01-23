@@ -12,7 +12,7 @@
             $("#btnEnviar").click(function() {
                 swal({
                     title: "¿Estás seguro?",
-                    text: "Se ingresarán los datos al sistema.",
+                    text: "Se ingresarán los datos al sistema de Bizagi.",
                     icon: "warning",
                     buttons: true,
                     successMode: true,
